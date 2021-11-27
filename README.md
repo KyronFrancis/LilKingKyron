@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LilKingKyron
+- 👋 Hi, I’m Kyron
 - 👀 I’m interested in JROTC, Marching Band, and Coding
 - 🌱 I’m currently learning Javascript and I might start learning html soon
 - 💞️ I’m looking to collaborate on Nothing at the moment
